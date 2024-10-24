@@ -4,7 +4,11 @@ import './Footer.css'
 const Footer = () => {
   return (
     <>
-    <h1>Footer</h1>
+     <section className="footer">
+     <div class="container">
+            <p>© Все мои мечты защищены моим трудолюбием</p>
+        </div>
+     </section>
     </>
   )
 }
